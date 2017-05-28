@@ -1,0 +1,339 @@
+{
+	"listing": [ 
+  {
+    "state": "Alabama",
+    "abbr": "AL",
+    "capital": "Montgomery",
+    "largest_city": "Birmingham"
+  },
+  {
+    "state": "Alaska",
+    "abbr": "AK",
+    "capital": "Juneau",
+    "largest_city": "Anchorage"
+  },
+  {
+    "state": "America Samoa",
+    "abbr": "AS",
+    "capital": "Pago Pago",
+    "largest_city": "Tafuna"
+  },
+  {
+    "state": "Arizona",
+    "abbr": "AZ",
+    "capital": "Phoenix",
+    "largest_city": "Phoenix"
+  },
+  {
+    "state": "Arkansas",
+    "abbr": "AR",
+    "capital": "Little Rock",
+    "largest_city": "Little Rock"
+  },
+  {
+    "state": "California",
+    "abbr": "CA",
+    "capital": "Sacramento",
+    "largest_city": "Los Angeles"
+  },
+  {
+    "state": "Colorado",
+    "abbr": "CO",
+    "capital": "Denver",
+    "largest_city": "Denver"
+  },
+  {
+    "state": "Connecticut",
+    "abbr": "CT",
+    "capital": "Hartford",
+    "largest_city": "Bridgeport"
+  },
+  {
+    "state": "Delaware",
+    "abbr": "DE",
+    "capital": "Dover",
+    "largest_city": "Wilmington"
+  },
+  {
+    "state": "District of Columbia",
+    "abbr": "DC",
+    "capital": "Washington",
+    "largest_city": "Washington"
+  },
+  {
+    "state": "Florida",
+    "abbr": "FL",
+    "capital": "Tallahassee",
+    "largest_city": "Jacksonville"
+  },
+  {
+    "state": "Georgia",
+    "abbr": "GA",
+    "capital": "Atlanta",
+    "largest_city": "Atlanta"
+  },
+  {
+    "state": "Guam",
+    "abbr": "GU",
+    "capital": "Agana",
+    "largest_city": "Tamuning"
+  },
+  {
+    "state": "Hawaii",
+    "abbr": "HI",
+    "capital": "Honolulu",
+    "largest_city": "Honolulu"
+  },
+  {
+    "state": "Idaho",
+    "abbr": "ID",
+    "capital": "Boise",
+    "largest_city": "Boise"
+  },
+  {
+    "state": "Illinois",
+    "abbr": "IL",
+    "capital": "Springfield",
+    "largest_city": "Chicago"
+  },
+  {
+    "state": "Indiana",
+    "abbr": "IN",
+    "capital": "Indianapolis",
+    "largest_city": "Indianapolis"
+  },
+  {
+    "state": "Iowa",
+    "abbr": "IA",
+    "capital": "Des Moines",
+    "largest_city": "Des Moines"
+  },
+  {
+    "state": "Kansas",
+    "abbr": "KS",
+    "capital": "Topeka",
+    "largest_city": "Wichita"
+  },
+  {
+    "state": "Kentucky",
+    "abbr": "KY",
+    "capital": "Frankfort",
+    "largest_city": "Louisville"
+  },
+  {
+    "state": "Louisiana",
+    "abbr": "LA",
+    "capital": "Baton Rouge",
+    "largest_city": "New Orleans"
+  },
+  {
+    "state": "Maine",
+    "abbr": "ME",
+    "capital": "Augusta",
+    "largest_city": "Portland"
+  },
+  {
+    "state": "Maryland",
+    "abbr": "MD",
+    "capital": "Annapolis",
+    "largest_city": "Baltimore"
+  },
+  {
+    "state": "Massachusetts",
+    "abbr": "MA",
+    "capital": "Boston",
+    "largest_city": "Boston"
+  },
+  {
+    "state": "Michigan",
+    "abbr": "MI",
+    "capital": "Lansing",
+    "largest_city": "Detroit"
+  },
+  {
+    "state": "Minnesota",
+    "abbr": "MN",
+    "capital": "Saint Paul",
+    "largest_city": "Minneapolis"
+  },
+  {
+    "state": "Mississippi",
+    "abbr": "MS",
+    "capital": "Jackson",
+    "largest_city": "Jackson"
+  },
+  {
+    "state": "Missouri",
+    "abbr": "MO",
+    "capital": "Jefferson City",
+    "largest_city": "Kansas City"
+  },
+  {
+    "state": "Montana",
+    "abbr": "MT",
+    "capital": "Helena",
+    "largest_city": "Billings"
+  },
+  {
+    "state": "Nebraska",
+    "abbr": "NE",
+    "capital": "Lincoln",
+    "largest_city": "Omaha"
+  },
+  {
+    "state": "Nevada",
+    "abbr": "NV",
+    "capital": "Carson City",
+    "largest_city": "Las Vegas"
+  },
+  {
+    "state": "New Hampshire",
+    "abbr": "NH",
+    "capital": "Concord",
+    "largest_city": "Manchester"
+  },
+  {
+    "state": "New Jersey",
+    "abbr": "NJ",
+    "capital": "Trenton",
+    "largest_city": "Newark"
+  },
+  {
+    "state": "New Mexico",
+    "abbr": "NM",
+    "capital": "Santa Fe",
+    "largest_city": "Albuquerque"
+  },
+  {
+    "state": "New York",
+    "abbr": "NY",
+    "capital": "Albany",
+    "largest_city": "New York City"
+  },
+  {
+    "state": "North Carolina",
+    "abbr": "NC",
+    "capital": "Raleigh",
+    "largest_city": "Charlotte"
+  },
+  {
+    "state": "North Dakota",
+    "abbr": "ND",
+    "capital": "Bismarck",
+    "largest_city": "Fargo"
+  },
+  {
+    "state": "Northern Mariana Islands",
+    "abbr": "MP",
+    "capital": "Saipan",
+    "largest_city": "Saipan"
+  },
+  {
+    "state": "Ohio",
+    "abbr": "OH",
+    "capital": "Columbus",
+    "largest_city": "Columbus"
+  },
+  {
+    "state": "Oklahoma",
+    "abbr": "OK",
+    "capital": "Oklahoma City",
+    "largest_city": "Oklahoma City"
+  },
+  {
+    "state": "Oregon",
+    "abbr": "OR",
+    "capital": "Salem",
+    "largest_city": "Portland"
+  },
+  {
+    "state": "Pennsylvania",
+    "abbr": "PA",
+    "capital": "Harrisburg",
+    "largest_city": "Philadelphia"
+  },
+  {
+    "state": "Puerto Rico",
+    "abbr": "PR",
+    "capital": "San Juan",
+    "largest_city": "San Juan"
+  },
+  {
+    "state": "Rhode Island",
+    "abbr": "RI",
+    "capital": "Providence",
+    "largest_city": "Providence"
+  },
+  {
+    "state": "South Carolina",
+    "abbr": "SC",
+    "capital": "Columbia",
+    "largest_city": "Columbia"
+  },
+  {
+    "state": "South Dakota",
+    "abbr": "SD",
+    "capital": "Pierre",
+    "largest_city": "Sioux Falls"
+  },
+  {
+    "state": "Tennessee",
+    "abbr": "TN",
+    "capital": "Nashville",
+    "largest_city": "Memphis"
+  },
+  {
+    "state": "Texas",
+    "abbr": "TX",
+    "capital": "Austin",
+    "largest_city": "Houston"
+  },
+  {
+    "state": "US Virgin Islands",
+    "abbr": "VI",
+    "capital": "Charlotte Amalie",
+    "largest_city": "Charlotte Amalie"
+  },
+  {
+    "state": "Utah",
+    "abbr": "UT",
+    "capital": "Salt Lake City",
+    "largest_city": "Salt Lake City"
+  },
+  {
+    "state": "Vermont",
+    "abbr": "VT",
+    "capital": "Montpelier",
+    "largest_city": "Burlington"
+  },
+  {
+    "state": "Virginia",
+    "abbr": "VA",
+    "capital": "Richmond",
+    "largest_city": "Virginia Beach"
+  },
+  {
+    "state": "Washington",
+    "abbr": "WA",
+    "capital": "Olympia",
+    "largest_city": "Seattle"
+  },
+  {
+    "state": "West Virginia",
+    "abbr": "WV",
+    "capital": "Charleston",
+    "largest_city": "Charleston"
+  },
+  {
+    "state": "Wisconsin",
+    "abbr": "WI",
+    "capital": "Madison",
+    "largest_city": "Milwaukee"
+  },
+  {
+    "state": "Wyoming",
+    "abbr": "WY",
+    "capital": "Cheyenne",
+    "largest_city": "Cheyenne"
+  }
+] }
