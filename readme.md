@@ -8,3 +8,7 @@ You will need a Google Maps Direction and Javascript APIs key
 [$key] = Google Calendar API key
 
 You can get the Google Developer APIs at https://console.developers.google.com/
+
+## Disclaimer
+
+Please note that this code is API intensive.  Google Maps free API quota may be exceeded if used incorrectly.
